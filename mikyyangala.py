@@ -1,1 +1,1 @@
-print("Hi! I'm Mikyla Angala, A passionate freshman studying Electronics and Communication Engineering, with years of leadership experience, I possess strong analytical and problem-solving skills. I genuinely enjoy tackling complex challenges and am now eager to apply my talents to the software industry. My goal is to acquire new skills and contribute to the ever-evolving world of software development.")
+
