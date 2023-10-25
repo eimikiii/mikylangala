@@ -1,5 +1,5 @@
 <h1 align="center">Good Day! I'm Mikyla Angala❤️ (•́ ω •̀๑)</h1>
-<h3 align="center">A passionate freshman studying Electronics and Communication Engineering at Polytechnic University of the Philippines, with years of leadership experience, I possess strong analytical and problem-solving skills. I genuinely enjoy tackling complex challenges and am now eager to apply my talents to the software industry. My goal is to acquire new skills and contribute to the ever-evolving world of software development.</h3>
+<h3 align="left">A passionate freshman studying Electronics and Communication Engineering at Polytechnic University of the Philippines, with years of leadership experience, I possess strong analytical and problem-solving skills. I genuinely enjoy tackling complex challenges and am now eager to apply my talents to the software industry. My goal is to acquire new skills and contribute to the ever-evolving world of software development.</h3>
 
 - 🌱 I’m currently learning **about web development and am eager to acquire proficiency in multiple programming languages.**
 
